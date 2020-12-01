@@ -1,0 +1,42 @@
+WHAT IS NODE.JS?
+----------------
+- JavaScript Runtime Environment(NOT a language or framework)
+- Built on the V8 JavaScript engine(Same as Google Chrome)
+- Written in C++
+- Esentially allows us to run JavaScript code on the server
+
+
+WHY USE NODE ?
+--------------
+- Fast,  efficient and highy scalable
+- Event driven, non-blocking I/O model
+- Popular in the industry
+- Same language on the front end and back end(JS)
+
+
+NON-BLOCKING I/O
+----------------
+- Works on a single thread using non-blocking I/O calls
+- Supports tens of thousands concurrent connections
+- Optimizes throughput & scalability in apps with many I/O operations
+- All of this makes Node.js apps very fast and efficient
+
+NODE'S EVENT LOOP
+-----------------
+- Single threaded
+- Supports concurrency via events & callbacks
+- EventEmitter class is used to bind the events and listeners
+
+BEST TYPES OF PROJECTS FOR NODE
+--------------------------------
+- REST API & Microservices
+- Real Time Services(Chat, Live Updates)
+- CRUD Apps - Blogs, Shopping Carts, Social Networks
+- Tools & Utilities
+- SHORT ANSWER -> Anything that is not CPU intensive
+
+NODE MODULES
+------------
+- Node COre Modules (path, fs, http, etc)
+- 3rd party modules/packages installed via NPM
+- Custom modules(files)
